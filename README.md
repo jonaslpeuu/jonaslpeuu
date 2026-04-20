@@ -20,7 +20,7 @@ Focused on building apps that I personally love to use — with clean architectu
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,swiftdata,combine,widgetkit,coredata,revenuecat,git,github,figma&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,swiftdata,combine,widgetkit,coredata,revenuecat,git,github,figma&perline=6" alt="Tech Stack" />
 </p>
 
 ---
