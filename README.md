@@ -20,7 +20,7 @@ Focused on building apps that I personally love to use — with clean architectu
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,firebase,git,github,figma&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,firebase,git,github,figma,coredata,widgetkit&perline=9" alt="Tech Stack" />
 </p>
 
 ---
@@ -28,8 +28,8 @@ Focused on building apps that I personally love to use — with clean architectu
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaslpeuu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaslpeuu&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonaslpeuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaslpeuu&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
 </p>
 
 ---
