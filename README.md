@@ -20,17 +20,17 @@ Focused on building apps that I personally love to use — with clean architectu
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-  <img src="https://skillicons.dev/icons?i=swiftui" width="48" height="48" alt="SwiftUI" />
-  <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
-  <img src="https://skillicons.dev/icons?i=swiftdata" width="48" height="48" alt="SwiftData" />
-  <img src="https://skillicons.dev/icons?i=combine" width="48" height="48" alt="Combine" />
-  <img src="https://skillicons.dev/icons?i=widgetkit" width="48" height="48" alt="WidgetKit" />
-  <img src="https://skillicons.dev/icons?i=coredata" width="48" height="48" alt="Core Data" />
-  <img src="https://skillicons.dev/icons?i=revenuecat" width="48" height="48" alt="RevenueCat" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=swift" width="48" alt="Swift" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=swiftui" width="48" alt="SwiftUI" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=xcode" width="48" alt="Xcode" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=swiftdata" width="48" alt="SwiftData" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=combine" width="48" alt="Combine" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=widgetkit" width="48" alt="WidgetKit" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=coredata" width="48" alt="Core Data" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=revenuecat" width="48" alt="RevenueCat" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" />
 </p>
 
 ---
