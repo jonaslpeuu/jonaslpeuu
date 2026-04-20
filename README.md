@@ -8,19 +8,19 @@
 
 **Indie iOS Developer** 🧑‍💻
 
-I build beautiful, fast and delightful native iOS apps with Swift and SwiftUI.  
-Currently focused on creating apps that I personally love to use — clean code, smooth UX and attention to detail.
+I create beautiful, fast and delightful native iOS apps using Swift and SwiftUI.  
+Focused on building apps that I personally love to use — with clean architecture, smooth animations and great attention to detail.
 
-- 🌱 Deep diving into **SwiftUI**, **Combine** and modern iOS architecture
-- 📱 Always looking for new app ideas to bring to life
-- ☕ Fueled by coffee and good music
+- 🌱 Currently deep into **SwiftUI**, **Combine** and modern iOS patterns
+- 📱 Always brainstorming new app ideas
+- ☕ Powered by coffee and good music
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,firebase,git,github,figma&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,xcode,firebase,git,github,figma&perline=8" alt="Tech Stack" />
 </p>
 
 ---
@@ -28,8 +28,8 @@ Currently focused on creating apps that I personally love to use — clean code,
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaslpeuu&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaslpeuu&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonaslpeuu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaslpeuu&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
