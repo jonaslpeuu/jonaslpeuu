@@ -11,36 +11,9 @@
 I create beautiful, fast and delightful native iOS apps using Swift and SwiftUI.  
 Focused on building apps that I personally love to use — with clean architecture, smooth animations and great attention to detail.
 
-- 🌱 Currently deep into **SwiftUI**, **Combine** and modern iOS patterns
+- 🌱 Exploring **SwiftUI**, **Combine**, and modern iOS patterns
 - 📱 Always brainstorming new app ideas
 - ☕ Powered by coffee and good music
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift" width="48" alt="Swift" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=swiftui" width="48" alt="SwiftUI" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=xcode" width="48" alt="Xcode" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=swiftdata" width="48" alt="SwiftData" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=combine" width="48" alt="Combine" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=widgetkit" width="48" alt="WidgetKit" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=coredata" width="48" alt="Core Data" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=revenuecat" width="48" alt="RevenueCat" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaslpeuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonaslpeuu&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
-</p>
 
 ---
 
@@ -56,4 +29,4 @@ Focused on building apps that I personally love to use — with clean architectu
 
 ---
 
-Made with ❤️ and a lot of Swift
+Made with ❤️ and lots of Swift
